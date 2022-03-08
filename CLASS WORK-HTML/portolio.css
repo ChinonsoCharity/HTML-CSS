@@ -1,0 +1,64 @@
+*{font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    position: relative;
+    width: 500px;
+    height: 1000px;
+    background: #FFFFFF;
+}
+
+.features {
+    display: flex;
+    justify-content:right;
+    padding-left: 77rem;
+}
+.work{
+    padding: 15px;
+}
+.blogs{
+    padding: 15px;
+}
+.contact{
+    padding: 15px;
+}
+.header1{
+  display:flex;
+  margin-top: 5em;
+  height: 350px;
+}
+.introduction{
+    padding: 2em;
+    width: 50%;
+    height: 60%;
+    justify-content: space-between;
+}
+.header1 button{
+    background-color:rgb(228, 124, 124);
+    padding: 10px 20px ;
+    color: white;
+    border: unset;
+    text-align: center;
+    border-radius: 4px;
+    width: 38%;
+}
+.intro_image img{
+   border-radius: 170%;
+   margin-left: 150%;
+    
+}
+.features2 {
+    display: flex;
+    justify-content:space-between;
+    margin-top: 3em;
+    
+}
+.post{
+    padding: 20px;
+    width: 50%;
+}
+.view{
+    padding: 20px;
+    margin-left: 150%;
+}
+
